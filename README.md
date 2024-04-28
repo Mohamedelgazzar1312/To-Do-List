@@ -1,11 +1,11 @@
-# To-Do List Application
+# To-Do List App
 
-This straightforward web-based to-do list app enables you to add, check off, and delete tasks. Simply enter a new task in the input box and click "Add" to include it in your list. 
-Mark tasks as done or undone by clicking on them. Easily remove tasks by selecting the close icon.
+This simple web-based to-do list application allows you to add, mark, and delete tasks. Add a new task by typing it in the input box and clicking "Add".
+Mark tasks as completed or incomplete by clicking on them. You can also remove tasks by clicking on the close icon.
 
-## Key Features
+## Features
 
-- Add new tasks effortlessly.
-- Track task completion status with easy check-off.
-- Quickly delete tasks when they're no longer needed.
-- Utilizes Local Storage to ensure your task list is saved even after you close and reopen your browser.
+- Add new tasks to the list.
+- Mark tasks as completed or incomplete.
+- Remove tasks from the list.
+- Utilizes Local Storage to store your task list, ensuring it persists even after closing and restarting your browser.
